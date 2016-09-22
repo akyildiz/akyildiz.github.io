@@ -651,7 +651,7 @@ hr{background:#e0e0e0;height:1px;border:none;margin-top:9px;}
 .paddingleft{padding-left:37px;}
 .noborderright{border-right:none!important;}
 #logo_container{float:left;margin-top:2px;}
-#logo{background:url("logo.png") no-repeat left;width:380px;float:left;height:80px;}
+#logo{background:url("img/logo.png") no-repeat left;width:380px;float:left;height:80px;}
 .tag_line{font-size:12px;color:#666;float:left;padding:5px 0 0 25px;}
 .pink{color:#ef5656;}
 .light{color:#75cdd2;}
@@ -710,7 +710,7 @@ ul#q_nav li a.active{color:#75cdd2;text-decoration:none;border:none;margin:0;}
 .box{padding:0 7px;}
 .side_border{border-left:#e0e0e0 4px solid;margin:0 0 20px;padding:10px 0 5px 20px;}
 .text_container{margin:30px 0 70px;}
-.divider{background:url(divider.png) no-repeat;width:940px;height:16px;margin:52px 0;}
+.divider{background:url(img/divider.png) no-repeat;width:940px;height:16px;margin:52px 0;}
 #main{float:left;overflow:hidden;position:relative;margin-bottom:0;width:100%;}
 #filtering-nav,#project_navi{display:inline;float:left;margin:0 0 20px;padding:0;}
 #filtering-nav li,#project_navi li{list-style:none;float:left;}
