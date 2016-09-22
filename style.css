@@ -710,7 +710,7 @@ ul#q_nav li a.active{color:#75cdd2;text-decoration:none;border:none;margin:0;}
 .box{padding:0 7px;}
 .side_border{border-left:#e0e0e0 4px solid;margin:0 0 20px;padding:10px 0 5px 20px;}
 .text_container{margin:30px 0 70px;}
-.divider{background:url(http://www.clinsoftsolutions.com/images/divider.png) no-repeat;width:940px;height:16px;margin:52px 0;}
+.divider{background:url(divider.png) no-repeat;width:940px;height:16px;margin:52px 0;}
 #main{float:left;overflow:hidden;position:relative;margin-bottom:0;width:100%;}
 #filtering-nav,#project_navi{display:inline;float:left;margin:0 0 20px;padding:0;}
 #filtering-nav li,#project_navi li{list-style:none;float:left;}
@@ -731,7 +731,6 @@ a.over_image{position:absolute;top:-60px;left:50%;width:100px;text-transform:upp
 #contact_form .message{width:682px;height:150px;margin-top:10px;border:#e4e4e4 1px solid;background:#FFF;padding:8px;}
 #contact_form .section{width:46%;float:left;margin-left:56px;}
 .required_field{width:47px;height:16px;position:relative;background-color:#ea545a;border:none;text-align:center;font-size:10px;color:#FFF;line-height:16px;left:275px;top:-56px;z-index:50;}
-.send_btn{width:93px;height:34px;float:left;background:url(http://www.clinsoftsolutions.com/images/send_btn.png) no-repeat;line-height:34px;color:#FFF;text-align:center;font-family:MyriadPro-Regular;font-size:13px;text-decoration:none;margin-top:20px;}
 .send_btn a{color:#FFF;text-decoration:none;}
 #appmsg_form{position:relative;padding:20px 0 0;}
 .team_img{width:500px;height:500px;margin:0 auto;}
