@@ -1,0 +1,89 @@
+footer,header{display:block}
+button,input{font-family:sans-serif}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+h2{font-size:1.5em;margin:.83em 0}
+b{font-weight:700}
+ul{padding:0 0 0 40px}
+img{border:0}
+button,input{font-size:100%;vertical-align:middle;margin:0}
+button,input{line-height:normal}
+button{-webkit-appearance:button;cursor:pointer;overflow:visible}
+body,form{margin:0}
+p,ul{margin:1em 0}
+body,div,span,h1,h2,p,a,img,b,i,ul,li,form,footer,header{border:0;font-style:inherit;font-variant:inherit;font-weight:inherit;font-stretch:inherit;line-height:inherit;font-family:inherit;font-size:100%;vertical-align:baseline;margin:0;padding:0}
+ul{list-style:none}
+html *{box-sizing:border-box}
+body{background:#fff;font-family:"Open Sans";font-weight:400;color:#555;position:relative;-webkit-font-smoothing:antialiased}
+h1,h2{font-family:"Open Sans";font-weight:400;color:#444;text-rendering:optimizeLegibility;padding-top:.273em;line-height:1.15538em;padding-bottom:.273em}
+h1{font-size:4.25rem}
+h2{font-size:2.625rem}
+p{font-family:"Open Sans";font-weight:400;font-size:1rem;margin-bottom:13px;line-height:1.625em}
+a{color:#d04526;text-decoration:none;outline:0;line-height:inherit}
+a:hover{color:#c03d20}
+ul{margin-bottom:.273em}
+ul{list-style:none outside}
+li{padding-bottom:.273em}
+.container{padding:0 20px}
+.row{width:100%;max-width:940px;min-width:320px;margin:0 auto}
+.columns{margin-left:2.12766%;float:left;min-height:1px;position:relative;box-sizing:border-box}
+img{max-width:100%;height:auto}
+.row{zoom:1}
+.row::after{content:"";display:table;clear:both}
+.row::before{content:"";display:table}
+form{margin:0 0 18px}
+.field{position:relative;max-width:100%;overflow:hidden;margin-bottom:10px;vertical-align:middle}
+.field input{max-width:100%;width:100%;border:none;outline:none;resize:none;-webkit-appearance:none;font-family:"Open Sans";font-weight:300;font-size:1rem;box-shadow:none;margin:0;padding:0}
+.field .input{position:relative;background:#fff;border:1px solid #d8d8d8;height:36px;line-height:34px;font-size:1rem;border-radius:4px;padding:0 10px}
+.field .wide{width:46%}
+.field .wide:first-child{margin-right:4%;margin-left:0}
+.field.append{font-size:0;white-space:nowrap;padding-bottom:3.5px}
+.field.append input,.field.append .input{display:inline-block;max-width:100%}
+.field.append .adjoined,.field.append .btn{position:relative;display:inline-block;margin-bottom:0;z-index:99}
+.field.append .adjoined{background:#f2f2f2;border:1px solid #d8d8d8;font-family:"Open Sans";font-weight:600;color:#555;font-size:1rem;height:36px;line-height:34px;padding:0 10px}
+.columns:first-child{margin-left:0}
+.row .four.columns{width:23.4043%}
+.row .eight.columns{width:48.9362%}
+.row .twelve.columns{width:74.4681%}
+.row .sixteen.columns{width:100%}
+.field .wide{margin:0}
+.field.append :last-child{border-radius:0 4px 4px 0}
+.field.append input,.field.append .input{border-radius:4px 0 0 4px}
+.field.append input:first-child{margin-right:0}
+.field.append .adjoined,.field.append .btn{margin-left:-1px}
+body,div,span,h1,h2,p,a,img,ul,li,form{border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;margin:0;padding:0}
+body{background:#fff;font-size:12px;color:#555;font-family:MyriadPro-Regular,"Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif}
+img{border:none}
+a:hover{color:#75cdd2;text-decoration:underline}
+.noborderright{border-right:none!important}
+#logo_container{float:left;margin-top:2px}
+#logo{background:url(https://akyildiz.github.io/img/logo.png) left center no-repeat;width:380px;float:left;height:80px}
+ul{list-style:disc outside;margin-left:5px}
+h1{font-size:36px;text-align:left;font-family:MyriadPro-Regular;font-weight:700;color:#2f2f2f}
+h2{font-size:36px;text-align:left;font-family:MyriadPro-Regular;color:#51565e}
+h2.home-items{font-size:18px;text-align:center;color:#2f2f2f;min-height:40px}
+p{font-size:13px;text-align:left;margin-top:8px;line-height:20px}
+p.home-items{text-align:justify}
+#product_description p{font-size:13px;text-align:left;line-height:22px;margin-bottom:10px}
+#nav_wrapper{position:relative;display:inline;float:right;margin-right:25px;margin-top:6px}
+#nav{position:relative;margin:0;padding:0}
+#nav a{display:block;color:#fff;text-decoration:none;padding:8px 10px}
+#nav li{position:relative;float:left;list-style:none;margin-right:5px;font-family:MyriadPro-Regular;font-size:14px;font-weight:400;line-height:15px;padding:15px 0}
+#nav li a{color:#4b4641}
+#nav li a:hover{color:#fff;background:#75cdd2}
+#slider{margin-top:30px}
+#slideshow{position:relative;width:940px;height:262px;overflow:hidden;clear:both;margin:0 auto}
+.slide_entry{position:relative;width:940px;height:262px}
+#slideshow img{border-radius:8px}
+#slideshow ul{left:0;width:940px;top:0;overflow:hidden;position:absolute}
+#slideshow ul li{float:left;position:absolute;text-align:center;width:940px;height:262px}
+.main_title,.subtitle{position:absolute;left:-650px;width:600px;text-align:left;color:#fff;background:#333;opacity:.5;padding:10px}
+.main_title{bottom:90px;font-size:26px;font-family:Arial,Helvetica,sans-serif}
+.subtitle{top:180px;font-size:16px}
+.box{padding:0 7px}
+.divider{background:url(https://akyildiz.github.io/img/divider.png) no-repeat;width:940px;height:16px;margin:52px 0}
+#footer{overflow:auto;background:#75cdd2;border-radius:8px;padding:9px 8px;height:auto!important}
+#footer p{color:#0e3a3c;font-size:12px;text-align:left;font-family:Tahoma,Geneva,sans-serif;line-height:15px}
+#footer h1{font-size:14px;font-family:Arial,Helvetica,sans-serif;color:#fff;font-weight:700;margin-bottom:6px}
+.copyright{color:#7b7b7b;font-size:12px;float:left;padding:10px 0 20px}
+a{color:#0bb5be;text-decoration:none}
