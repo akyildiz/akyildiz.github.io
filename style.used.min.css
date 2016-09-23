@@ -47,7 +47,7 @@ form{margin:0 0 18px}
 .row .twelve.columns{width:74.4681%}
 .row .sixteen.columns{width:100%}
 .field .wide{margin:0}
-.field.append :last-child{border-radius:0 4px 4px 0}
+.field.append:last-child{border-radius:0 4px 4px 0}
 .field.append input,.field.append .input{border-radius:4px 0 0 4px}
 .field.append input:first-child{margin-right:0}
 .field.append .adjoined,.field.append .btn{margin-left:-1px}
